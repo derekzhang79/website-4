@@ -1,0 +1,8 @@
+# virtualenv stuff
+lib/
+bin/
+include/
+
+# vim stuff
+*.swp
+*.swo

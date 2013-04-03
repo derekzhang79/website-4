@@ -6,3 +6,6 @@ include/
 # vim stuff
 *.swp
 *.swo
+
+# Python patterns
+*.pyc
